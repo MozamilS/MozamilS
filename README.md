@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Sayed Sadat 
 
-I'm a software engineer currently pursuing my Master's in Data Science and Analytics at the University of Calgary. I'm somewhat of a perfectionist but I also keep an eye on being pragmatic and efficient. My biggest passion in life is problem solving which has led me to the top 200 chess puzzle solvers in Canada ![Canadian Flag](https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_(Pantone).svg)
+I'm a software engineer currently pursuing my Master's in Data Science and Analytics at the University of Calgary. I'm somewhat of a perfectionist but I also keep an eye on being pragmatic and efficient. My biggest passion in life is problem solving which has led me to the top 200 chess puzzle solvers in Canada <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_(Pantone).svg" alt= "Canadian Flag" width = 32 height = 32> 
 on chess.com ![Chess.com](https://www.chess.com/favicon.ico). 
 
 <!--

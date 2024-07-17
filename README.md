@@ -15,3 +15,30 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on the Independent Society of Knowledge
 - 📫 How to reach me: Send me a text on my LinkedIn account or a challenge on chess.com if you want to take me on for a challenge
 - ⚡ Fun fact: The fastest I have been able to type was 170+ words per minute on typeracer.com
+
+
+### Education: 
+
+#### Master of Data Science and Analytics 
+- University of Calgary (2024 - 2025) 
+
+Relevant Courses: 
+- Statistical Methods in Data Science
+- Actionable Visualization and Analytics 
+- Developing Big Data Applications
+- Statistical and Machine Learning
+
+#### Bachelor of Science Information Technology
+- American University of Afghanistan (2019 - 2023)
+- Major in Software Engineering
+
+Relevant Courses: 
+
+- Software Engineering 
+- Data Mining 
+- Data Structures
+- System Analysis and Design
+- Data Visualization
+- Database Concepts 
+- Statistical Data Analysis 
+

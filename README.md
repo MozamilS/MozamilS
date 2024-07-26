@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on multiple projects focusing on applying Machine Learning models such as Recurrent Neural Networks, 
 - 🌱 I’m currently learning Large language models, Amazon Web Services such as EC2, S3, Lambda, QuickSight, frontend technologies such as Streamlit, Mesop and Next.JS to expand on my full stack data science toolkit
-- 👯 I’m looking to collaborate on the Independent Society of Knowledge
 - 📫 How to reach me: Send me a text on my LinkedIn account or a challenge on chess.com if you want to take me on for a challenge
 - ⚡ Fun fact: The fastest I have been able to type was 170+ words per minute on typeracer.com
 

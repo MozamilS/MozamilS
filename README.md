@@ -11,10 +11,6 @@ Currently contributing to:
 - [helm-semver](https://github.com/rhysmcneill/helm-semver) : Automation tool for bumping helm charts based on conventional commits.
 - [simpler-grants-gov](github.com/HHS/simpler-grants-gov) : U.S. Gov website for finding and sharing funding opportunities.
 
-### Stats
-
-![Sayed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MozamilS&theme=radical)
-
 ### Stack
 
 #### Languages
@@ -55,6 +51,4 @@ Currently contributing to:
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MozamilS&theme=redical)
